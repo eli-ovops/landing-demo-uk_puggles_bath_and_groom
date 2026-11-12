@@ -1,0 +1,2 @@
+/* Fidelity rebuild: photo hero has one copy entrance; all other layers stay static. */
+.hero-copy,.bubble-one,.bubble-two,.bubble-three{animation:none}.service-card img,.care-visual img,.call-image img{transition:transform 360ms var(--puggles-ease)}.service-card:hover img,.care-visual:hover img,.call-image:hover img{transform:scale(1.035);filter:none}

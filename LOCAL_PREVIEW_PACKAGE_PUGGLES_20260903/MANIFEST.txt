@@ -1,0 +1,24 @@
+Package: LOCAL_PREVIEW_PACKAGE — Puggles Bath & Groom
+Date: 2026-09-03
+Status: Local preview only. No deployment, outreach, or source-transfer authorization.
+Entry point: index.html
+Scope: Static HTML/CSS and locally bundled public customer assets. Google Maps is an external lazy iframe and link.
+
+SHA-256
+fc3baaf7998125630660ffbc51e0b5fab751e30aac9f371030f58280f6b40ae1  assets/official-aggie.webp
+3dbc75489b44a371e58015b3fc5b5f6be3d07f95c34699f664755c6e4b910d43  assets/official-bathtub-dog.jpeg
+6e7126785d792e74291a2c0c255cda939c8326049b89e14f03e2e1573b60b957  assets/official-clifford.webp
+a12b20eb6b52d3cf497d1f7376850423ef0b23110eeae7ed2ef4546889e53e6e  assets/official-dog-bath.jpeg
+c0a3dea63b7217975941ff2cbeea6ebc559afd49d4e0df7ccbf338e096d0038c  assets/official-frankie.webp
+2a941c51ae4ec5649a1b38dcdb8902cbdf6f5b08f7b3a90283f390da71f9c05c  assets/official-group-dogs.jpeg
+207cbf31e45caa201bbbfffcbd98fe9726d40e78b5db7294ca99815d1df35533  assets/official-towel-dog.jpg
+2dd648d233d3f8239fa994166252f081a38679052ec16d4e9f199322fb088d93  assets/puggles-logo.png
+9beed7fa192b4847d1aa251a40f88c10d5bf4d707854f728f74cc139b2c373d6  depth.css
+5b04704bf81044075ca3ec37a8662e5c5c71460f76f3c24623533654be06f419  hero-refresh.css
+934fe17d35c871660824e346165ca2c20d7d5cbe7fd4533b537faef06f586443  index.html
+e512ff975147233203d5ca02689657ca9bb26fc82983f5d44e3c5717b9e7c939  motion-fix.css
+68c3032a71b8456001ac495d17b87acf7ea39393ca7075617ebaa92b4b1e3ae7  motion.css
+47f923f2ece3d642eccb2c4248f72da2e882f0f898c235bd8f02029cca072c36  price-mobile.css
+05fbb63d4b7fbba593ddcbbb1e54e032ab0c603a1a128a7ddc6f4e715755d1ed  price.css
+6ce11868893b9ff5eab412494d58361ed0c0e5977ef9289d92fa182a33c7efd5  supplement.css
+8cf2d669fae9e7674dc32344f2f8f0e6b972ff2f4a57a688fa7f201473cea86f  v2.css
